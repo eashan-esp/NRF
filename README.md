@@ -1,1 +1,1 @@
-use the ling in the repository
+use the link in the repository
